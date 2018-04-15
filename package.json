@@ -1,0 +1,26 @@
+{
+  "name": "simplenlg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src --out-dir lib --copy-files",
+    "lint": "eslint --env node src *.js",
+    "test": "mocha --compilers js:babel-register test -R spec -s 1700 -t 30000 --recursive"
+  },
+  "author": "Rob Ellis",
+  "license": "MPL",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-env": "^1.5.2",
+    "mocha": "^3.4.2",
+    "should": "^11.2.1"
+  },
+  "dependencies": {
+    "enumify": "^1.0.4",
+    "hashmap": "^2.3.0",
+    "lodash": "^4.17.5",
+    "string": "^3.3.3",
+    "xml-parser": "^1.2.1"
+  }
+}

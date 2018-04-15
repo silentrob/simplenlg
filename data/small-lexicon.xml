@@ -1,0 +1,218 @@
+<lexicon>
+<word>
+  <base>a</base>
+  <category>determiner</category>
+  <id>E0006419</id>
+</word>
+<word>
+  <base>abandon</base>
+  <category>verb</category>
+  <id>E0006429</id>
+  <ditransitive/>
+  <transitive/>
+</word>
+<word>
+  <base>abbey</base>
+  <category>noun</category>
+  <id>E0203496</id>
+</word>
+<word>
+  <base>ability</base>
+  <category>noun</category>
+  <id>E0006490</id>
+</word>
+<word>
+  <base>able</base>
+  <category>adjective</category>
+  <id>E0006510</id>
+  <predicative/>
+  <qualitative/>
+</word>
+<word>
+  <base>abnormal</base>
+  <category>adjective</category>
+  <id>E0006517</id>
+  <predicative/>
+  <qualitative/>
+</word>
+<word>
+  <base>apple</base>
+  <category>noun</category>
+  <id>E0010101</id>
+</word>
+<word>
+  <base>the</base>
+  <category>determiner</category>
+  <id>E0060487</id>
+</word>
+<word>
+  <base>stir</base>
+  <category>verb</category>
+  <id>E0057968</id>
+  <present3s>stirs</present3s>
+  <intransitive/>
+  <past>stirred</past>
+  <pastParticiple>stirred</pastParticiple>
+  <presentParticiple>stirring</presentParticiple>
+  <transitive/>
+</word>
+<word>
+  <base>woman</base>
+  <category>noun</category>
+  <id>E0065549</id>
+  <plural>women</plural>
+  <irreg/>
+</word>
+<word>
+  <base>give</base>
+  <category>verb</category>
+  <id>E0029785</id>
+  <present3s>gives</present3s>
+  <ditransitive/>
+  <intransitive/>
+  <past>gave</past>
+  <pastParticiple>given</pastParticiple>
+  <presentParticiple>giving</presentParticiple>
+  <transitive/>
+</word>
+<word>
+  <base>do</base>
+  <category>verb</category>
+  <id>E0023652</id>
+  <present3s>does</present3s>
+  <ditransitive/>
+  <intransitive/>
+  <past>did</past>
+  <pastParticiple>done</pastParticiple>
+  <presentParticiple>doing</presentParticiple>
+  <transitive/>
+</word>
+<word>
+  <base>see</base>
+  <category>verb</category>
+  <id>E0055007</id>
+  <present3s>sees</present3s>
+  <intransitive/>
+  <past>saw</past>
+  <pastParticiple>seen</pastParticiple>
+  <presentParticiple>seeing</presentParticiple>
+  <transitive/>
+</word>
+<word>
+  <base>quickly</base>
+  <category>adverb</category>
+  <id>E0051632</id>
+  <verb_modifier/>
+</word>
+<word>
+  <base>fortunately</base>
+  <category>adverb</category>
+  <id>E0028641</id>
+  <sentence_modifier/>
+  <verb_modifier/>
+</word>
+<word>
+  <base>me</base>
+  <category>pronoun</category>
+  <id>E0039151</id>
+</word>
+<word>
+  <base>run</base>
+  <category>verb</category>
+  <id>E0053977</id>
+  <present3s>runs</present3s>
+  <ditransitive/>
+  <intransitive/>
+  <past>ran</past>
+  <pastParticiple>ran</pastParticiple>
+  <presentParticiple>running</presentParticiple>
+  <transitive/>
+</word>
+<word>
+  <base>fall</base>
+  <category>verb</category>
+  <id>E0027225</id>
+  <present3s>falls</present3s>
+  <intransitive/>
+  <past>fell</past>
+  <pastParticiple>fallen</pastParticiple>
+  <presentParticiple>falling</presentParticiple>
+  <transitive/>
+</word>
+<word>
+  <base>down</base>
+  <category>adverb</category>
+  <id>E0023852</id>
+  <verb_modifier/>
+</word>
+<word>
+  <base>down</base>
+  <category>preposition</category>
+  <id>E0023850</id>
+</word>
+<word>
+  <base>have</base>
+  <category>verb</category>
+  <id>E0030898</id>
+  <present3s>has</present3s>
+  <intransitive/>
+  <past>had</past>
+  <pastParticiple>had</pastParticiple>
+  <presentParticiple>having</presentParticiple>
+  <transitive/>
+</word>
+<word>
+  <base>kiss</base>
+  <category>verb</category>
+  <id>E0036566</id>
+  <ditransitive/>
+  <intransitive/>
+  <transitive/>
+</word>
+<word>
+  <base>make</base>
+  <category>verb</category>
+  <id>E0038623</id>
+  <present3s>makes</present3s>
+  <ditransitive/>
+  <intransitive/>
+  <past>made</past>
+  <pastParticiple>made</pastParticiple>
+  <presentParticiple>making</presentParticiple>
+  <transitive/>
+</word>
+<word>
+  <base>say</base>
+  <category>verb</category>
+  <id>E0054448</id>
+  <present3s>says</present3s>
+  <ditransitive/>
+  <intransitive/>
+  <past>said</past>
+  <pastParticiple>said</pastParticiple>
+  <presentParticiple>saying</presentParticiple>
+  <transitive/>
+</word>
+<word>
+  <base>get</base>
+  <category>verb</category>
+  <id>E0029697</id>
+  <present3s>gets</present3s>
+  <ditransitive/>
+  <past>got</past>
+  <pastParticiple>gotten</pastParticiple>
+  <presentParticiple>getting</presentParticiple>
+  <transitive/>
+</word>
+<word>
+  <base>upset</base>
+  <category>verb</category>
+  <id>E0063455</id>
+  <present3s>upsets</present3s>
+  <past>upset</past>
+  <pastParticiple>upset</pastParticiple>
+  <presentParticiple>upsetting</presentParticiple>
+  <transitive/>
+</word>
+
+</lexicon>
