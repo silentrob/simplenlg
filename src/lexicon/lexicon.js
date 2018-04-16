@@ -21,6 +21,7 @@
 const fs = require('fs');
 const parse = require('xml-parser');
 const S = require('string');
+const path = require('path');
 
 import HashMap from 'hashmap';
 import WordElement from '../framework/wordElement'
@@ -122,7 +123,9 @@ let getForm = function(base, suffix){
 
 class Lexicon {
   constructor(lexiconName = "default-lexicon.xml"){
-    this.xml = fs.readFileSync(`./data/${lexiconName}`, 'utf8');
+
+    const p = path.join(__filename, '../../../');
+    this.xml = fs.readFileSync(`${p}/data/${lexiconName}`, 'utf8');
   
     this.words = new Set();
     this.indexByID = new HashMap(); // map from ID to word
